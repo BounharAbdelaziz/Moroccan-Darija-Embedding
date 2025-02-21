@@ -16,10 +16,6 @@ TASKS=[
     # "AfriSentiLangClassification", # throws ERROR:mteb.evaluation.MTEB:Error while evaluating AfriSentiLangClassification: Dataset 'HausaNLP/afrisenti-lid-data' doesn't exist on the Hub or cannot be accessed.
     "BelebeleRetrieval",
     "FloresBitextMining",
-    "SIB200Classification",
-    "SIB200ClusteringS2S",
-    "SemRel24STS",
-
 ]
 
 LANGUAGES=["ary"]
